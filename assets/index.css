@@ -11,7 +11,7 @@
   
   body {
   
-    background-color: lavender;
+    background-color: rgb(167, 184, 181);
   }
   
   
@@ -44,7 +44,7 @@
   
   p {
     font-size: large;
-    font-family: 'Times New Roman', Times, serif;
+    font-family: Georgia, 'Times New Roman', Times, serif;
   }
   
   .footer {
