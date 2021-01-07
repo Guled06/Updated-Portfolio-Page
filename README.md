@@ -14,9 +14,10 @@ The next clickable photo is the most top-left photo. Once this photo is clicked,
 <p>The third and final clickable photo in my Portfolio page will directly the user to my <a href="https://guled06.github.io/Updated-Portfolio-Page/coded-19.html">Coded-19 Project web application showcasing</a> page. This page will show the web application my group and I built and it will describe what this web application was designed for, who designed it and what was used to design this web application. Just like the previous two, the user is provided with two links, one link to my Github repository and another link for the deployed web application.</p>
 <p>The Portfolio page on my Updated Portfolio Page will also display two button that the user can click. Two predetermined songs will play once the user clicks either buttons. The user is also given an option to pause the songs.</p>
 <h1>Contact Page</h1>
-The contact page on my Updated Portfolio Page displays a form where the user may write down his/her name, email and a brief message.
+<p>The contact page on my Updated Portfolio Page displays a form where the user may write down his/her name, email and a brief message.</p>
 <br>
-You can click this link to visit my Updated Portfolio Page <a href="https://guled06.github.io/Updated-Portfolio-Page/portfolio.html">CLICK HERE</a>.
+<p>You can click this link to visit my Updated Portfolio Page <a href="https://guled06.github.io/Updated-Portfolio-Page/portfolio.html">CLICK HERE</a>.</p>
+<br>
 <h1>Screenshot of my Updated Portfolio Page</h1>
 <img src="assets/images/screenshotone.png"/>
 <img src="assets/images/screenshottwo.png"/>
