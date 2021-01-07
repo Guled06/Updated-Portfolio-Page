@@ -49,3 +49,7 @@
     font-family: "Times New Roman", Times, serif;
     font-style: italic;
   }
+
+  hr.new {
+    border-top: 1px solid rgb(32, 70, 80);
+  }
