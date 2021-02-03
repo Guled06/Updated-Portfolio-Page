@@ -1,60 +1,56 @@
+body {
+  background-color: rgb(167, 184, 181);
+}
+
 .red {
-    color: yellow !important;
-  }
-  .red {
-    font-size: large !important;
-  }
-  
-  .list-unstyled {
-    float: right;
-  }
-  
+  color: yellow !important;
+}
+
+h1 {
+  font-family: "Times New Roman", Times, serif;
+  font-style: italic;
+}
+
+p {
+  font-size: large;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+.red {
+  font-size: large !important;
+}
+
+.list-unstyled {
+  float: right;
+}
+
+.footer {
+  text-align: center;
+  color: red;
+  background-color: transparent;
+  margin-top: 20px;
+}
+
+@media screen and (max-width: 768px) {
   body {
-  
-    background-color: rgb(167, 184, 181);
-  }
-  
-  
-  @media screen and (max-width: 768px) {
-    body {
-      background-color: rgb(104, 181, 201);
-    }
-  
-    .container {
-      width: 100% !important; 
-    }
-  
-  }
-  
-  @media screen and (max-width: 480px) {
-  
-    aside {
-      width: 100% !important;
-    }
-  
-    .container {
-      width: 100% !important;
-    }
-  
-    nav {
-      width: 100% !important;
-    }
-  }
-  
-  
-  p {
-    font-size: large;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-  }
-  
-  .footer {
-    text-align: center;
-    color: red;
-    background-color: transparent;
-    margin-top: 20px;
+    background-color: rgb(104, 181, 201);
   }
 
-  h1 {
-    font-family: "Times New Roman", Times, serif;
-    font-style: italic;
+  .container {
+    width: 100% !important;
   }
+}
+
+@media screen and (max-width: 480px) {
+  aside {
+    width: 100% !important;
+  }
+
+  .container {
+    width: 100% !important;
+  }
+
+  nav {
+    width: 100% !important;
+  }
+}
