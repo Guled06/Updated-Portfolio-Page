@@ -8,3 +8,13 @@ This is my updated portfolio. This portfolio was designed to give the reader an 
 
 Under the 'projects' area of this portfolio, I have chosen to showcase four of my projects. I have included brief description for each project and a screenshot of the application. 
 
+# Links: 
+
+Deployed Link: https://guled06.github.io/Updated-Portfolio-Page/
+
+# Screenshot Of Portfolio:
+
+<img src="docs/portfolio-screenshot-one.png">
+<br>
+<img src="docs/portfolio-screenshot-two.png">
+
